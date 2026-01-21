@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This project was undertaken by three studens from FAST National University. Our goal was to analyze the use of multiple threads in sorting algorithms. We wanted to see if android applications can utilize their multicore processors in speeding up the sorting time of arrays. We have implemented two sorting algorithms in this project, Merge Sort and Quick Sort. Both of these algorithms have their threaded and non-threaded versions. The merge sort algorithm was written in Kotlin while Quick Sort algorithm was written in C++.
+This project was undertaken by two studens from FAST National University. Our goal was to analyze the use of multiple threads in sorting algorithms. We wanted to see if android applications can utilize their multicore processors in speeding up the sorting time of arrays. We have implemented two sorting algorithms in this project, Merge Sort and Quick Sort. Both of these algorithms have their threaded and non-threaded versions. The merge sort algorithm was written in Kotlin while Quick Sort algorithm was written in C++.
 
 ## Merge Sort
 
